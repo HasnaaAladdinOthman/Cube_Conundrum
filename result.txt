@@ -1,0 +1,4 @@
+part 1:
+final possibleGamesSum= 2204
+Part 2:
+final gamePowerSum is: 71036

@@ -1,0 +1,12 @@
+{
+  "name": "day2_cube_conundrum",
+  "version": "1.0.0",
+  "description": "cube_conundrum",
+  "main": "Cube_Conundrum.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnaa",
+  "license": "ISC"
+}
